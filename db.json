@@ -60,5 +60,143 @@
             "ticketID": "A2ASD",
             "price": 100
         }
+    ],
+    "products":[
+        {
+          "id"          : 5,
+          "title"       : "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+          "price"       : 695,
+          "description" : "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+          "category"    : "jewelery",
+          "image"       : "https://placeimg.com/640/480/dam?t=20200427408"
+        },
+        {
+          "id": 6,
+          "title": "Solid Gold Petite Micropave ",
+          "price": 168,
+          "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+          "category": "jewelery",
+          "image": "https://placeimg.com/640/480/dam?t=20200427407"
+        },
+        {
+          "id": 7,
+          "title": "White Gold Plated Princess",
+          "price": 9.99,
+          "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+          "category": "jewelery",
+          "image": "https://placeimg.com/640/480/dam?t=20200427402"
+        },
+        {
+          "id": 8,
+          "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+          "price": 10.99,
+          "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+          "category": "jewelery",
+          "image": "https://placeimg.com/640/480/dam?t=20200427401"
+        },
+        {
+          "id": 1,
+          "title": "Beautiful Mug",
+          "price": 89,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "category": "Kitchen utensils",
+          "image": "https://placeimg.com/640/480/tech?t=2020042730"
+        },
+        {
+          "id": 2,
+          "title": "Golden Spoon",
+          "price": 440,
+          "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+          "category": "Kitchen utensils",
+          "image": "https://placeimg.com/640/480/tech?t=2020042731"
+        },
+        {
+          "id": 3,
+          "title": "Anti All Shoe",
+          "price": 599,
+          "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+          "category": "clothes",
+          "image": "https://placeimg.com/640/480/tech?t=2020042732"
+        },
+        {
+          "id": 4,
+          "title": "Good Jeans",
+          "price": 199,
+          "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "category": "clothes",
+          "image": "https://placeimg.com/640/480/tech?t=2020042733"
+        },
+        {
+          "id": 9,
+          "title": "A pair of socks",
+          "price": 149,
+          "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium",
+          "category": "clothes",
+          "image": "https://placeimg.com/640/480/tech?t=2020042734"
+        },
+        {
+          "id": 10,
+          "title": "A pair of boxers",
+          "price": 299,
+          "description": "Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo",
+          "category": "clothes",
+          "image": "https://placeimg.com/640/480/tech?t=2020042735"
+        },
+        {
+          "id": 11,
+          "title": "Boomerang Sweater",
+          "price": 3999,
+          "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.",
+          "category": "clothes",
+          "image": "https://placeimg.com/640/480/tech?t=2020042736"
+        },
+        {
+          "id": 12,
+          "title": "Crocodile Jacket",
+          "price": 2990,
+          "description": "Sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciun.",
+          "category": "clothes",
+          "image": "https://placeimg.com/640/480/tech?t=2020042737"
+        },
+        {
+          "id": 13,
+          "title": "Crazy Bag",
+          "price": 899,
+          "description": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.",
+          "category": "clothes",
+          "image": "https://placeimg.com/640/480/tech?t=2020042738"
+        },
+        {
+          "id": 14,
+          "title": "Cap with hotdogs",
+          "price": 499,
+          "description": "Numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+          "category": "clothes",
+          "image": "https://placeimg.com/640/480/tech?t=2020042739"
+        },
+        {
+          "id": 15,
+          "title": "Happy bag",
+          "price": 1490,
+          "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam",
+          "category": "clothes",
+          "image": "https://placeimg.com/640/480/tech?t=2020042740"
+        },
+        {
+          "id": 16,
+          "title": "Donald Trump",
+          "price": 1,
+          "description": "Nisi ut aliquid ex ea commodi consequatur",
+          "category": "unknown",
+          "image": "https://placeimg.com/640/480/tech?t=2020042741"
+        },
+        {
+          "id": 17,
+          "title": "Chicken Burger USB Hub",
+          "price": 249,
+          "description": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+          "category": "el",
+          "image": "https://placeimg.com/640/480/tech?t=2020042742"
+        }
     ]
 }
