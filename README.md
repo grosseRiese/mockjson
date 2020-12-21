@@ -1,4 +1,5 @@
 # mockjson
-* get data for testing *
-* data-url: https://my-json-server.typicode.com/grosseRiese/mockjson/data *
-* db-url: https://my-json-server.typicode.com/grosseRiese/mockjson/db *
+* GET data for testing (mockAPI): 
+* data-url: https://my-json-server.typicode.com/grosseRiese/mockjson/data 
+* db-url: https://my-json-server.typicode.com/grosseRiese/mockjson/db 
+* products_url: https://my-json-server.typicode.com/grosseRiese/mockjson/products
