@@ -229,22 +229,6 @@
           "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam",
           "category": "clothes",
           "image": "https://placeimg.com/640/480/tech?t=2020042746"
-        },
-        {
-          "id": 22,
-          "title": "adidas outdoor Kids' Kurobe K",
-          "price": 1,
-          "description": "Nisi ut aliquid ex ea commodi consequatur",
-          "category": "Shoes",
-          "image": "https://placeimg.com/640/480/tech?t=2020042747"
-        },
-        {
-          "id": 23,
-          "title": "POWLAKEN Bike Light Set",
-          "price": 249,
-          "description": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
-          "category": "el",
-          "image": "https://placeimg.com/640/480/tech?t=2020042748"
         }
     ],
     "coffeemenu": [
